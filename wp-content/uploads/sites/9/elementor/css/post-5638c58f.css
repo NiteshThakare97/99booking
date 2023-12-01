@@ -94,3 +94,9 @@
 .elementor-5638 .elementor-element.elementor-element-38b0889 .elementor-flip-box__back .elementor-flip-box__layer__description {
     color: #FFFFFF;
 }
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+    .elementor-5638 .elementor-element.elementor-element-38b0889 .elementor-flip-box {
+        height: 478px;
+     }
+}

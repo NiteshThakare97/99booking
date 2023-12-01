@@ -375,3 +375,34 @@ body.rtl .elementor-5467 .elementor-element.elementor-element-0ea3fb5 {
     padding-top: 90px;
     height: 352px;
 }
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+    .elementor-5467 .elementor-element.elementor-element-0830827 {
+        padding: 60px 0px 250px 0px;
+    }
+    .elementor-4544 .elementor-element.elementor-element-a641e79 img, .elementor-4544 .elementor-element.elementor-element-9f9caab img {
+        width: auto !important;
+    }
+    .elementor-4544 .elementor-element.elementor-element-69dd2de {
+        top: -113px !important;
+    }
+    .nd_travel_width_100_percentage_responsive {
+        width: 33%;
+    }
+    .elementor-5467 .elementor-element.elementor-element-e2ee161 .nd_travel_padding_30 {
+        height: 425px;
+        padding: 54px 15px 30px 15px;
+    }
+    #carrental-sec3img {
+        top: 38px;
+    }
+    .elementor-5467 .elementor-element.elementor-element-e2ee161 {
+        padding: 0px 0px 22px 0px;
+        background-size: contain;
+        background-color: #eeeeee66;
+    }
+    #carrental-sec4 {
+        background-size: contain;
+    }
+}
+
