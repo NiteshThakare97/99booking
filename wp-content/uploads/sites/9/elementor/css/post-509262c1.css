@@ -1,7 +1,6 @@
 .elementor-5092 .elementor-element.elementor-element-20d6e03:not(.elementor-motion-effects-element-type-background),
 .elementor-5092 .elementor-element.elementor-element-20d6e03>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../2023/05/i-parallax-08-destination-02.jpg");
-    background-position: center center;
+    background-image: url("../../../../../images/Transport/01/MainBanner.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -17,7 +16,7 @@
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 220px 0px 220px 0px;
+    padding: 307px 0px 220px 0px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-14814dc>.elementor-element-populated {
@@ -49,7 +48,10 @@
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 150px 0px 150px 0px;
+    padding: 150px 0px 54px 0px;
+    background-image: url(../../../../../images/Transport/02/Sction02BG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .elementor-5092 .elementor-element.elementor-element-3caea9f>.elementor-element-populated {
@@ -67,6 +69,8 @@
 
 .elementor-5092 .elementor-element.elementor-element-7d80ae98 .elementor-headline {
     text-align: left;
+    margin-top: 12px;
+    color: #313332;
 }
 
 .elementor-5092 .elementor-element.elementor-element-7d80ae98 .elementor-headline-dynamic-wrapper path {
@@ -80,7 +84,8 @@
 }
 
 .elementor-5092 .elementor-element.elementor-element-64ac5f0 .elementor-heading-title {
-    line-height: 1.8em;
+    line-height: 30px !important;
+    color: #000000;
 }
 
 .elementor-5092 .elementor-element.elementor-element-6fae3bd2 .elementor-heading-title {
@@ -315,7 +320,9 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 
 .elementor-5092 .elementor-element.elementor-element-6e47a15:not(.elementor-motion-effects-element-type-background),
 .elementor-5092 .elementor-element.elementor-element-6e47a15>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #f2f2f2;
+    background-image: url(../../../../../images/Transport/04/Sction04BG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .elementor-5092 .elementor-element.elementor-element-6e47a15>.elementor-background-overlay {
@@ -325,9 +332,9 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 
 .elementor-5092 .elementor-element.elementor-element-6e47a15 {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    margin-top: -240px;
+    /* margin-top: -240px; */
     margin-bottom: 0px;
-    padding: 360px 0px 120px 0px;
+    padding: 105px 0px 131px 0px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-301c29bc>.elementor-element-populated {
@@ -363,6 +370,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 
 .elementor-5092 .elementor-element.elementor-element-3b5651ee .elementor-headline {
     text-align: left;
+    color: #323232;
 }
 
 .elementor-5092 .elementor-element.elementor-element-3b5651ee .elementor-headline-dynamic-wrapper path {
@@ -379,7 +387,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 50px;
+    padding: 0px 125px 0px 50px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-58516540 .elementor-heading-title {
@@ -401,7 +409,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 15px;
+    padding: 0px 51px 0px 15px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-7133ccc3 {
@@ -409,9 +417,10 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 }
 
 .elementor-5092 .elementor-element.elementor-element-7133ccc3 img {
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 0% 0% 0% 0%;
+    margin-bottom: 16px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-32e1c1f0 .elementor-heading-title {
@@ -422,7 +431,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 15px;
+    padding: 0px 52px 0px 15px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-1c97dcb0 {
@@ -430,8 +439,8 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 }
 
 .elementor-5092 .elementor-element.elementor-element-1c97dcb0 img {
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 0% 0% 0% 0%;
 }
 
@@ -443,7 +452,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 15px;
+    padding: 0px 51px 0px 15px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-68ca4b61 {
@@ -451,9 +460,10 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 }
 
 .elementor-5092 .elementor-element.elementor-element-68ca4b61 img {
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 0% 0% 0% 0%;
+    margin-bottom: 9px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-dc60506 .elementor-heading-title {
@@ -470,7 +480,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 15px;
+    padding: 0px 67px 0px 15px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-7f291d3a {
@@ -478,9 +488,10 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 }
 
 .elementor-5092 .elementor-element.elementor-element-7f291d3a img {
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 0% 0% 0% 0%;
+    margin-bottom: 4px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-6bc7c403 .elementor-heading-title {
@@ -491,7 +502,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 15px;
+    padding: 0px 57px 0px 15px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-7d67d489 {
@@ -499,9 +510,10 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 }
 
 .elementor-5092 .elementor-element.elementor-element-7d67d489 img {
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 0% 0% 0% 0%;
+    margin-bottom: 9px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-4a5b93b8 .elementor-heading-title {
@@ -512,7 +524,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
-    padding: 0px 15px 0px 15px;
+    padding: 0px 75px 0px 15px;
 }
 
 .elementor-5092 .elementor-element.elementor-element-5dee269e {
@@ -520,8 +532,8 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 }
 
 .elementor-5092 .elementor-element.elementor-element-5dee269e img {
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 0% 0% 0% 0%;
 }
 
@@ -1071,6 +1083,9 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 120px 0px 120px 0px;
+    background-image: url(../../../../../images/Transport/05/Sction05BG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .elementor-5092 .elementor-element.elementor-element-7306daa3>.elementor-element-populated {
@@ -1134,7 +1149,7 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 
 @media(max-width:1550px) {
     .elementor-5092 .elementor-element.elementor-element-3caea9f>.elementor-element-populated {
-        padding: 0px 50px 0px 15px;
+        padding: 0px 108px 0px 15px;
     }
 
     .elementor-5092 .elementor-element.elementor-element-3cc3e6c0>.elementor-element-populated {
@@ -1727,4 +1742,27 @@ body.rtl .elementor-5092 .elementor-element.elementor-element-38a33510 {
 
 #transport-sec2-sub {
     font-size: 30px;
+}
+#transport-temple {
+    position: absolute;
+    bottom: -6px;
+}
+
+hr {
+    height: 10px;
+    width: 96%;
+    background: linear-gradient(90deg, #f5be4a, #e86ab4, #6852e1);
+}
+
+#transport-sec4-title {
+    background: linear-gradient(90deg, #f5be4a, #e86ab4, #6852e1);
+    color: #fff;
+    padding: 0px 10px 0px 2px;
+}
+
+.elementor-5092 .elementor-element.elementor-element-6e47a15 hr {
+    height: 5px;
+    width: 92%;
+    margin-top: 16px;
+    background: linear-gradient(90deg, #6653e0 16%, #eb6bb5, #ffb951 78%);
 }
