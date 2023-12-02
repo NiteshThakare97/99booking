@@ -255,3 +255,62 @@ body.rtl .elementor-5928 .elementor-element.elementor-element-a3ccceb .post-navi
 #phuket-attraction-ticket-sec2 {
     padding-bottom: 180px;
 }
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+    .elementor-5928 .elementor-element.elementor-element-5507f057{
+        padding: 58px 0px 120px 0px;
+    }
+    #pattaya-title {
+        padding: 12px 62px 10px 30px;
+        bottom: -26px;
+    }
+    #pattaya-title h2 {
+        font-size: 22px;
+    }
+    #pattaya-attrac-text {
+        text-align: end;
+    }
+    #pattaya-attrac-text img {
+        width: 50%;
+    }
+    #bankok-attrac-text {
+        bottom: 446px;
+        right: 6%;
+    }
+    #bankok-attrac-temple {
+        z-index: -1;
+    }
+    #phuket-attraction-ticket-sec2 {
+        padding-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #pattaya-title {
+        padding: 20px 23px 20px 18px;
+        bottom: -34px;
+    }
+    #pattaya-title h2 {
+        font-size: 20px;
+    }
+    .elementor-5928 .elementor-element.elementor-element-5507f057 {
+        padding: 0px 0px 115px 0px;
+        background-color: #a3eaf6;
+    }
+    .elementor-5928 .elementor-element.elementor-element-5507f057:not(.elementor-motion-effects-element-type-background), .elementor-5928 .elementor-element.elementor-element-5507f057>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-size: contain;
+    }
+    #pattaya-attrac-text {
+        bottom: -136px;
+        left: 3%;
+    }
+    .elementor-5928 .elementor-element.elementor-element-1087c8a1 {
+        padding: 60px 0px 280px 0px;
+    }
+    #bankok-attrac-text {
+        transform: rotate(270deg);
+        width: 25%;
+        bottom: -264px;
+        right: 36%;
+    }
+}
